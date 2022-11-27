@@ -1,0 +1,32 @@
+.esas{
+  margin-left: 40%;
+  margin-top: 17%;
+  width: 20%;
+  height: 200px;
+  border: 1px solid black;
+ 
+}
+.duyme1{
+  margin-left: 40%;
+  margin-top: 17%;
+  width: 20%;
+  height: 200px;
+  background-color: rgb(63, 142, 227);
+  border: 1px solid black;
+}
+.duyme2{
+  margin-left: 40%;
+  margin-top: 17%;
+  width: 20%;
+  height: 200px;
+  background-color: rgb(251, 118, 118);
+  border: 1px solid black;
+}
+p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  color: black;
+  font-size: 20px;
+}
